@@ -1,0 +1,82 @@
+body{
+	background: url('img/sample-pattern.png');
+
+	}
+
+header{
+	background: white;
+	padding: 10 px;
+}	
+
+	
+h1{
+	font-size:40px;
+	text-align: center;
+	font-family: Times New Roman,sans-serif;
+	color : 	rgb(192,192,192);
+	position : relative;
+	margin: 25px;
+	
+   }
+	
+h3{
+	font-family: :Lucida,sans-serif;
+	text-align : left;
+	color : blue;
+	text-decoration:none;
+	
+  }	
+  
+  a.plain {
+	text-decoration:none;  
+	}
+	
+p {
+	font-family: :Lucida,sans-serif;
+	text-align : left;
+	color:black;
+   }	
+
+
+	
+nav{
+	position: relative;
+	
+	
+	
+	
+}
+
+nav ul{
+	margin: 0;
+	padding:0;
+
+	
+}
+
+nav li{
+	float: right;
+	position: relative;
+	text-align: right;
+	background-color:white;
+	padding:10px;
+	color: blue;
+	list-style: none;
+	
+}
+
+	
+			
+
+.article-list{
+	padding:6px;
+	width: 660px;
+	height: 570px;
+	color: #fff;
+	margin :0 auto;  
+	background: white;
+	
+	
+	
+}
+
